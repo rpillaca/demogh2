@@ -13,6 +13,7 @@ end forward
 global type demogh2 from application
 string appname = "demogh2"
 string appruntimeversion = "25.0.0.3453"
+integer highdpimode = 0
 end type
 global demogh2 demogh2
 
